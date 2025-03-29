@@ -35,15 +35,6 @@ The optimal weights are printed for each stock.
 
 ---
 
-## 📦 Installation
-
-Make sure to install the required libraries:
-
-```bash
-pip install yfinance prophet cvxpy numpy pandas matplotlib
-
----
-
 ## 📈 Example Output
 
 Optimal Portfolio Weights:
