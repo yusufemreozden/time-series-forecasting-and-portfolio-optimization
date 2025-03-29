@@ -38,10 +38,11 @@ The optimal weights are printed for each stock.
 ## 📈 Example Output
 
 Optimal Portfolio Weights:
-FROTO.IS: 0.35  
-EGEEN.IS: 0.28  
-THYAO.IS: 0.22  
-KUTPO.IS: 0.15
+
+- FROTO.IS: 0.35  
+- EGEEN.IS: 0.28  
+- THYAO.IS: 0.22  
+- KUTPO.IS: 0.15
 
 ---
 
